@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Hello Freemarker World!</title>
+		<title>Hello World!</title>
 	</head>
 	<body>
 		<h1>Hello ${name}</h1>
